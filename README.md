@@ -17,6 +17,7 @@
 IqraMobeen/IqraMobeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Please take a moment to explore some of the projects I've worked on!
 ![1st](https://github.com/IqraMobeen/IqraMobeen/assets/142669209/76faf9c4-4b76-461f-9c35-2a4ea1c00e7b)
 ![2nd](https://github.com/IqraMobeen/IqraMobeen/assets/142669209/adc95107-0f03-429f-a370-05aced951e3b)
 ![8th](https://github.com/IqraMobeen/IqraMobeen/assets/142669209/6a189f8a-4cb0-442a-b164-6535c08b32a7)
